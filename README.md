@@ -8,6 +8,7 @@ Calvopiña Herrera Brandon Israel
 Sánchez Lema Isaac Adrián
 Supe Garcés Joan Sebastian
 Toapanta Iza Kevin Matías
+
 Ejercicios Realizados
 Registro de Estudiantes
 Lectura de Archivo de Estudiantes
@@ -20,11 +21,13 @@ Biblioteca Virtual
 Sistema de Ventas
 Mini Proyecto Integrador (CRUD)
 Tecnologías Utilizadas
+
 Java
 Programación Orientada a Objetos
 Archivos .txt
 Visual Studio Code
 GitHub
+
 Estructura del Proyecto
 APE05-Ficheros/
 │
